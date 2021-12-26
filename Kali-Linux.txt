@@ -1,0 +1,27 @@
+ls                       : liste tout les élements d'un fichier.
+
+ls -all                  : liste tout les élements fichier en detail.
+
+man (nano par exemple)   : affiche toutes les commandes possible avec nano dans ce cas.
+
+sudo su                  : ce connécter en root.
+
+mkdir (nom du repertoir) : créer un nouveau repertoir a l'emplacement choisi.
+
+rm : (repertoir)         : sup répertoire
+
+rm -r (repertoir)        : forcer la sup d'un repertoir
+ 
+touch (nom du fichier .tkt) : créer fichier .txt
+
+clear                    : clear le terminal
+
+cd                       : acceder a un fichier dossier
+
+cd ..                    : revenir en arrière sur le fichier selectioner precedement
+
+nano (nom fichier .txt)  : créer fichier .txt
+
+mw (exemple/ exemple/)   : déplacer fichier a un autre (ou doc, element)
+
+cp (exemple) (exemple/)  : copier un element a un autre repertoir
